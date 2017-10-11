@@ -51,8 +51,8 @@ mod 'puppet-nginx',
   :git => 'https://github.com/voxpupuli/puppet-nginx.git',
   :tag => 'v0.7.0'
 
-mod 'bnsautomata',
-  :git => 'https://github.com/onnorom/bnsautomata.git',
+mod 'ikeautomata',
+  :git => 'https://github.com/onnorom/ikeautomata.git',
   :tag => '0.1.4'
 #  :branch => 'master'
 
