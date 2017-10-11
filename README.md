@@ -1,1 +1,1 @@
-# bns-gwmscontrol
+# obi-obijicontrol
